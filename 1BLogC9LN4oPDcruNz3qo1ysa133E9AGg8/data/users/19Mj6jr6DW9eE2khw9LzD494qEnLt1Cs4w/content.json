@@ -1,0 +1,17 @@
+{
+ "address": "1BLogC9LN4oPDcruNz3qo1ysa133E9AGg8",
+ "cert_auth_type": "web",
+ "cert_sign": "G5U8S7BOkQP7EIldJ5Fj3MQeX+fhcYIs1G/DKAfeWNz9BalAerg5ZwqsHIcDSijHW5mGEb5BFMe1Y+YJQrsqQVY=",
+ "cert_user_id": "noamchomsky@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b0c3b83f4e67004b57c1ccbc8c59d610600493bdd6add3e2d72ef218ae807211",
+   "size": 178
+  }
+ },
+ "inner_path": "data/users/19Mj6jr6DW9eE2khw9LzD494qEnLt1Cs4w/content.json",
+ "modified": 1500320225,
+ "signs": {
+  "19Mj6jr6DW9eE2khw9LzD494qEnLt1Cs4w": "G5LfpWI0lnJqXlqO7XKen5sq7gLigk8VM/gjNhLhJYjCcqyfFInxUQNzxCuAzdy27QS1NKjBnlyyNpaN8Fjb91M="
+ }
+}

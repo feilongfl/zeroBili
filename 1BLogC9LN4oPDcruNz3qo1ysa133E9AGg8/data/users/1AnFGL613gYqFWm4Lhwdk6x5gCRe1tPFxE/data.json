@@ -1,0 +1,21 @@
+{
+	"next_comment_id": 3,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "I wish we could have something like a list of items where people can suggest and upvote individual items. \n\nI'd like to see \n- effort to coordinate marketing \n- focus on providing alternative to youtube (raise money for it on kickstarter or using crypto), -\n- [a way to pay content creators](http://127.0.0.1:43110/1Mtby5gvNcDn3tBr3tEsrwyx2hQcVoDfXZ/?Post:2:How+can+creators+going+to+get+paid+for+their+content+on+Zeronet) as a plugin any site can use (lightning network based ideally)",
+			"post_id": 125,
+			"date_added": 1517605112
+		},
+		{
+			"comment_id": 2,
+			"body": "> [james007](#comment_1_1DiRWRFXcVgQQ75cXnAG2pyxxjGo2VaH5): I think site-creators can figure out this on their own, we shouldn't push for commercialization of ZeroNet core development. Also as we've seen, crypto is crazy volatile and not as anonymous as people claim.\n\nIf you're worried about volatility, you can exchange your crypto into fiat currency weekly.\nI think people who receive money through Patreon or their public wallet address are happy to get some money for their content (if we're talking youtube/soundcloud type of apps) so wouldn't worry too much. \nBut, if you're worried about privacy, you can use anonymous cryptocurrencies.",
+			"post_id": 125,
+			"date_added": 1517613809
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"124": 1
+	}
+}

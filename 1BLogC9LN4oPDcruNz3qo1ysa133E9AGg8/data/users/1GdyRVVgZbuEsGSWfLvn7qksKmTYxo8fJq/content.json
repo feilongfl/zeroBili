@@ -1,0 +1,17 @@
+{
+ "address": "1BLogC9LN4oPDcruNz3qo1ysa133E9AGg8",
+ "cert_auth_type": "web",
+ "cert_sign": "GzmsQnLEbB978BYq4LdVgBRa9yFhHy5ozkpS5NlRmIptRwVK1v83yU0kxFy/gfY/CQHpH3P4XjL9E9qVio9ZI1U=",
+ "cert_user_id": "blonde@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "fd7b07b732126907d1eb49e2ff4039a550e90c040d59128dafc7eea8c3df8627",
+   "size": 93
+  }
+ },
+ "inner_path": "data/users/1GdyRVVgZbuEsGSWfLvn7qksKmTYxo8fJq/content.json",
+ "modified": 1495154622,
+ "signs": {
+  "1GdyRVVgZbuEsGSWfLvn7qksKmTYxo8fJq": "HA/0OBNl0XenMMyk/2pvNcPCI8XfCKNoeelFftfQIwGZCXoDtB3X3EvkHBXvTWpZLiUoet/Z8sBaNqgq4s2Zl6Q="
+ }
+}

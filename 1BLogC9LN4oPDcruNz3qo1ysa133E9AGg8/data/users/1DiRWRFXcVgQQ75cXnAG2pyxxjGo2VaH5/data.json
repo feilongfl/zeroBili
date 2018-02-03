@@ -1,0 +1,13 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "> [mnemonic](#comment_1_1AnFGL613gYqFWm4Lhwdk6x5gCRe1tPFxE): I wish we could have something like a list of items where people can suggest and upvote individual items. \n> I'd like to see \n> \n> effort to coordinate marketing \n> focus on providing alternative to youtube (raise money for it on kickstarter or using crypto), -\n> a way to pay content creators as a plugin any site can use (lightning network based ideally)\n\nI think site-creators can figure out this on their own, we shouldn't push for commercialization of ZeroNet core development. Also as we've seen, crypto is crazy volatile and not as anonymous as people claim.",
+			"post_id": 125,
+			"date_added": 1517608459
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {}
+}

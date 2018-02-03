@@ -1,0 +1,17 @@
+{
+ "address": "1BLogC9LN4oPDcruNz3qo1ysa133E9AGg8",
+ "cert_auth_type": "web",
+ "cert_sign": "GyK6U4rY5B3vZXhvsbwneCNgo7i0nKgw9nlmXXcgWmkkARZnXcpe2f6HkK4L8y+yq8Hw/cuH3MBuCNWtY6DZmsc=",
+ "cert_user_id": "sickgamex@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "23d92a4c86ebb548c7914f2e43ffc36868e78306c4f4fb454e7b4df6b3d3755e",
+   "size": 93
+  }
+ },
+ "inner_path": "data/users/1NT39RDDBgVDrQCL6y9NodL7RLJCDbA3Us/content.json",
+ "modified": 1504098142,
+ "signs": {
+  "1NT39RDDBgVDrQCL6y9NodL7RLJCDbA3Us": "G0F4teZJz03/v2q1Dkp7lVawO9WxExka3v+8DUb10h8iNd4qjdQJkJdD7L486AeBXGALW9jqgKu8jP9ysZxxJzc="
+ }
+}

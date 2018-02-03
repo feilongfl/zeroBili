@@ -1,0 +1,16 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Awesome ~~~Man, good job.",
+			"post_id": 121,
+			"date_added": 1507211016
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {},
+	"post_vote": {
+		"121": 1
+	}
+}

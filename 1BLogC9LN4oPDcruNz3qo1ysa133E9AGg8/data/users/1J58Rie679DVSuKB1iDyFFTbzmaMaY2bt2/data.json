@@ -1,0 +1,36 @@
+{
+	"next_comment_id": 6,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "The Zeronet front page would be so much easier to navigate if we could create custom collapsible categories for our added sites to sort them up instead of one large list. The search feature helps a ton, No longer do I have to Press CTRL+F to find a site.\n\nKeep up the great development work. Zeronet is the home I've always dreamed of but could never have.\n\n",
+			"post_id": 123,
+			"date_added": 1512577578
+		},
+		{
+			"comment_id": 2,
+			"body": "Very cool! My top connected country is China! =) Having fun breaking those walls of censorship.",
+			"post_id": 124,
+			"date_added": 1516390907
+		},
+		{
+			"comment_id": 3,
+			"body": "> [chikan](#comment_1_126w3qujTWkNgjDDZQ7Evq46ZkLkAr5WNB): Why I can't update by clicking on ZeroHello ->\"Version\" -> \"Update\" ?I've done this a lot of time, but it does nothing .\n\nThis was how I updated mine from 0.6.0 -> 0.6.1 on buntu",
+			"post_id": 124,
+			"date_added": 1516396190
+		},
+		{
+			"comment_id": 4,
+			"body": "> [tawny](#comment_2_1DMbBh3c4jvrGNycqXj6X2vsDuoSkvynKe): Is it just me or is the 'pin / delete' bar missing when selecting file(s) in the ZeroHello file tab?\n\nMine seem to be missing as well.",
+			"post_id": 124,
+			"date_added": 1516538100
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {},
+	"post_vote": {
+		"123": 1,
+		"124": 1,
+		"125": 1
+	}
+}

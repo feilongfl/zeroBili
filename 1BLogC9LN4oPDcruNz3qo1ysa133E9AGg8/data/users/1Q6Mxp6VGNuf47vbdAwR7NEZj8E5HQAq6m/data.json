@@ -1,0 +1,13 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Hey @nofish, this is really great!\n\nHope to see **Zstandard** being added soon, it is really an amazing algorithm both in terms of compression ratio, compression speed, decompression speed. And much better than **Brotli**, which is already better than most algorithms.\n\nAlso, would it be possible to just use the compression for individual files, without a tar archive? ",
+			"post_id": 105,
+			"date_added": 1498917346
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {}
+}

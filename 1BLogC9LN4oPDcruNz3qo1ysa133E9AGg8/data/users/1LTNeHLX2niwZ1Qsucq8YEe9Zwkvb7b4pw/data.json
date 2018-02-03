@@ -1,0 +1,28 @@
+{
+	"next_comment_id": 4,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Awesome, love what you're doing!  <3",
+			"post_id": 116,
+			"date_added": 1503076837
+		},
+		{
+			"comment_id": 2,
+			"body": "Sounds like a great idea. Can't wait for you to visit the Netherlands.",
+			"post_id": 117,
+			"date_added": 1504015766
+		},
+		{
+			"comment_id": 3,
+			"body": "Hey, great work. You're doing amazing work.",
+			"post_id": 124,
+			"date_added": 1516390527
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {},
+	"post_vote": {
+		"124": 1
+	}
+}

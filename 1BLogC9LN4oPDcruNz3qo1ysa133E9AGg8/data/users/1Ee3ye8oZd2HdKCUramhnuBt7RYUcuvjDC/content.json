@@ -1,0 +1,17 @@
+{
+ "address": "1BLogC9LN4oPDcruNz3qo1ysa133E9AGg8",
+ "cert_auth_type": "web",
+ "cert_sign": "G/WJ4KSoSiXwu2XMHC5i/CQijm1myWIIBU2nzUdS2L30FQOk/xmx729zvW5W+l88O4n18Kj9EEyJhbpHMDAgWbM=",
+ "cert_user_id": "brandswithclass@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "5ee67551ecec931bccd4a3bfa3a9f61721fd7e6e55d11122d50e729df30ca3ca",
+   "size": 233
+  }
+ },
+ "inner_path": "data/users/1Ee3ye8oZd2HdKCUramhnuBt7RYUcuvjDC/content.json",
+ "modified": 1517598757,
+ "signs": {
+  "1Ee3ye8oZd2HdKCUramhnuBt7RYUcuvjDC": "HIiCTu2hQ/eiKbvcrLA+t2auUh7gPYrWy1rrw1W6DFuWG313i4TwnGCtFmjWPpSUyoUHPREy+OfuWkat0wa3Zkw="
+ }
+}

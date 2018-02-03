@@ -1,0 +1,17 @@
+{
+ "address": "1BLogC9LN4oPDcruNz3qo1ysa133E9AGg8",
+ "cert_auth_type": "web",
+ "cert_sign": "G/qYlo+JwurfAzXYWDiyRN2sOQr9C2yclGX3rJ+zIgCI6+eBihuTeiGIz+kMPWTd9LGXey1yUIaKSDmaM2J3sak=",
+ "cert_user_id": "faustianspirit1@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "fd7b07b732126907d1eb49e2ff4039a550e90c040d59128dafc7eea8c3df8627",
+   "size": 93
+  }
+ },
+ "inner_path": "data/users/1DCTA8rrSFeKX7CzieU3CYwCjGZ2hYvamb/content.json",
+ "modified": 1495414228,
+ "signs": {
+  "1DCTA8rrSFeKX7CzieU3CYwCjGZ2hYvamb": "GyTJbJrZXHf6vQHmlQ06hHYDojaN8ygjRou0lnJYM3Z2E/fYxbiPumGJOZltgHF0l1vL1A9NtNZsndb+6WpuQqM="
+ }
+}

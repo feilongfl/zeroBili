@@ -1,0 +1,17 @@
+{
+ "address": "1BLogC9LN4oPDcruNz3qo1ysa133E9AGg8",
+ "cert_auth_type": "web",
+ "cert_sign": "G863xdcxvUhbVQgg3uP1hBAP8V6fS9GKHofUkaCDwIFcN2LElE1ZPQLf914Bmf0EmZLEb9SmpP9TYL1REsZgi/U=",
+ "cert_user_id": "conrelax@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "e0b978a912259ff82cdfbbf1183d10972e48999042ad9aa699871e157bcd7f2b",
+   "size": 189
+  }
+ },
+ "inner_path": "data/users/1J8h1qrix8SR29tY7c2NpRoWkmjZpuU2ZR/content.json",
+ "modified": 1515998751,
+ "signs": {
+  "1J8h1qrix8SR29tY7c2NpRoWkmjZpuU2ZR": "G2zbllYZq18mhJzWOcu6t5JSo8wA0tI/5c72y1mnx0GyPE2H0tv0y9XpOOWA4TF6lpXwEOYlp4yy4dk6BClzF9Q="
+ }
+}

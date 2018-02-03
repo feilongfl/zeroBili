@@ -1,0 +1,16 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "将 ZeroHello 设置 (收藏夹、订购) 保存到用户. json 而不是浏览器的本地存储。\n\nuserGetSettings 和 userSetSettings api 命令来存储用户的数据. json\n\n更好地报告签名/验证错误\n\n对标志和验证过程的更多测试\n\n如果文件大小与请求的不匹配, 请避免文件下载\n更新到 openssl v1.0 2 l\njavascript 和包装更少的文件访问使用/原始/前缀 (示例)\n\n将压缩文件限制为 6MB, 以避免 zip/tar. 广州炸弹\n\n在文件名中允许空格、[]、() 字符\n\n下载直接访问的 pdf/svg/swf 文件, 而不是显示它们, 以避免包装转义使用 js 在 svg 文件。[Beardog108]\n\n禁用跨站点资源加载以提高隐私。[Beardog108]\n\n禁止可能不安全的正则表达式以避免 ReDoS [由 MuxZeroNet 报告]\n为了避免可能的攻击。字符在重复字符 *、+、{和内容允许的最大9重复之前变得强制. json 和 dbschema. json 文件 regex 模式。\n要求更改的示例: 更改 (？!json)。*$ to .*(?!json) $\nepub |* jpg |。*。* png) to. * (epub | jpg | jpeg | png)\n\n在 android 6 + 下修复 openssl 加载\n\n新插件: cors\ncorsPermission (site_address) api 命令请求跨站点资源共享权限。在授予权限后, 其他站点的文件将在 cors siteaddress/虚拟目录下通过 http 请求或 fileget api 命令提供。",
+			"post_id": 114,
+			"date_added": 1500504964
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {},
+	"post_vote": {
+		"114": 1
+	}
+}

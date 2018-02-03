@@ -1,0 +1,17 @@
+{
+ "address": "1BLogC9LN4oPDcruNz3qo1ysa133E9AGg8",
+ "cert_auth_type": "web",
+ "cert_sign": "HHKQdVFeN2JlaskDRIpEORn1xs9MsCXZFLCVyoJ1+RF6fXkWYZyA4tuULl7SP+koV9Cf+QMe/o4JrSs4iWFydJY=",
+ "cert_user_id": "ghibli@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "f0cfdec66a393b4a387f9503187c03b3c7eef28f0f57f856d478716d6637fbdc",
+   "size": 250
+  }
+ },
+ "inner_path": "data/users/1HtEN9so2RPn561bWYsXkBgni3BoeDzveR/content.json",
+ "modified": 1514198805,
+ "signs": {
+  "1HtEN9so2RPn561bWYsXkBgni3BoeDzveR": "G6uE/BPJav2gxh6OjrRaQCDECPu/ofZD++rzyu7kEzUweqAKzlldvE9RNdoKA/Ba78DO/XBKhN0erD7iSjj541I="
+ }
+}

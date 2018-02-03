@@ -1,0 +1,17 @@
+{
+ "address": "1BLogC9LN4oPDcruNz3qo1ysa133E9AGg8",
+ "cert_auth_type": "web",
+ "cert_sign": "GzKW8aEDecFd9/NP14YH+1KFP5URYG8j1P5TYf3aINTBumoci/48zWliyZPoA9/FRD0nVZ1rqBoFsD5D5JZPKVI=",
+ "cert_user_id": "volvox@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "fd7b07b732126907d1eb49e2ff4039a550e90c040d59128dafc7eea8c3df8627",
+   "size": 93
+  }
+ },
+ "inner_path": "data/users/1GoaTbvoF1HFSuh4sD9HYY4hUiDUmEtvz4/content.json",
+ "modified": 1495551154,
+ "signs": {
+  "1GoaTbvoF1HFSuh4sD9HYY4hUiDUmEtvz4": "HOcVZY+lUQONhoQz880MvYLILIixqv5PbowMeNbSD6fgRE+VboE9ijgUdsSDPaFknaZx0hGUkNtnNG6Z26GWsM8="
+ }
+}

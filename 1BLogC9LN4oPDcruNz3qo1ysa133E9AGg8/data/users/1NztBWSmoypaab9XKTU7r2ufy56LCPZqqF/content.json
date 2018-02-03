@@ -1,0 +1,17 @@
+{
+ "address": "1BLogC9LN4oPDcruNz3qo1ysa133E9AGg8",
+ "cert_auth_type": "web",
+ "cert_sign": "HLEgyVg8YXHb5n8xZTk2JqSJmJUNrsWJqU9XNulZYLb5Sg0SxBgyeGQmuPEpN4cDEIs596xktdaR1ilDn3eJ9VM=",
+ "cert_user_id": "parlox@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "fefa86a8809a3fe1a9b3a1509fa7ef0ae7b2bbeeb8357281e467b5f79e58370a",
+   "size": 263
+  }
+ },
+ "inner_path": "data/users/1NztBWSmoypaab9XKTU7r2ufy56LCPZqqF/content.json",
+ "modified": 1504149282,
+ "signs": {
+  "1NztBWSmoypaab9XKTU7r2ufy56LCPZqqF": "HNGBa/C3Ygb1inHrz9nE589gZiuUJudHPt3e2GWibAawTjk7zLvAAMtsXK7h6dB5wPhTjQF+lZ6DLdL8XwaeK1o="
+ }
+}

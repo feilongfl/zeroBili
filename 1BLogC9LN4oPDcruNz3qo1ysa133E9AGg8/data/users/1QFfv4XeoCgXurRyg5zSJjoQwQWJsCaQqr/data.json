@@ -1,0 +1,19 @@
+{
+	"next_comment_id": 3,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "升级不错",
+			"post_id": 109,
+			"date_added": 1495252387
+		},
+		{
+			"comment_id": 2,
+			"body": "有没有最新语言包呢？",
+			"post_id": 93,
+			"date_added": 1495974833
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {}
+}

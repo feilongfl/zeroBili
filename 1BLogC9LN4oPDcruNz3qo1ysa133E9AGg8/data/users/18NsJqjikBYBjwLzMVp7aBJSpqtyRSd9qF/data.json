@@ -1,0 +1,31 @@
+{
+	"next_comment_id": 5,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "I have a *lot* I can say about this, but here is the one thing I can think of right now:\n\nPutting a balance of power in only one place can cause single points of failure *anywhere*, not just in networks. \n\nOne non-network example is advertising. If a show of some kind (TV, webshow, etc) has several big sponsors and one removes themself from the show, the show looses a huge amount of money. A more decentralized version is a system where viewers donate instead--there's less of a chance that lots of them will stop donating all at once. Spreading power among the users turns a monarchy-like system into a more democratic one.\n\nThere are probably other metaphors like this that might be useful, I'll put any others I think of here.",
+			"post_id": 107,
+			"date_added": 1489132889
+		},
+		{
+			"comment_id": 2,
+			"body": "Some ideas (sorry if this is too much at once):\n\n1. Maybe get ideas for more site categories from [zerowiki](http://127.0.0.1:43110/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP/) and be able to filter by them.\n\n2. Maybe require users to pick a language from a dropdown menu (might prevent 0lists's problem).\n\n3. Consider using flag icons instead of (or along with) the two letter language names. If you do use icons, you could have the both the language's native name and name in the currently set language show up in a tooltip (like [German | Deutsch] if the language is set to English).\n\nHope that's useful! :)\n\nEdit:\n\n4. A search feature by site url, *.bit address, name, or description (and maybe tags, Kaffiene has plenty).\n\n5. Scrolling, pagination, or some combination of those to prevent pages from being too long.\n\n6. Have the layout of the list change if only one category is being viewed.",
+			"post_id": 110,
+			"date_added": 1496824233
+		},
+		{
+			"comment_id": 3,
+			"body": "Hi:\n\nI'm not sure that limiting zip files to 6mb is the best way of avoiding zip bombs--they don't really need any size requirements to create. 42.zip, for example, is 42KB and bloats to *huge* sizes:\n\nhttp://www.unforgettable.dk\n\nMaybe a feature like the file size permission dialog would work better?",
+			"post_id": 114,
+			"date_added": 1500519248
+		},
+		{
+			"comment_id": 4,
+			"body": "Is anyone else getting a bug where existing sites aren't updating until after deleting and redownloading them?",
+			"post_id": 121,
+			"date_added": 1508186369
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {}
+}

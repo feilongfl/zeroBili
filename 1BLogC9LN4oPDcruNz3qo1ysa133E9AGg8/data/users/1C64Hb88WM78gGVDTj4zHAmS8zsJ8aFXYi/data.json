@@ -1,0 +1,16 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Great, can't wait to try. When will it get a release on GitHub?",
+			"post_id": 121,
+			"date_added": 1507205817
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {},
+	"post_vote": {
+		"121": 1
+	}
+}

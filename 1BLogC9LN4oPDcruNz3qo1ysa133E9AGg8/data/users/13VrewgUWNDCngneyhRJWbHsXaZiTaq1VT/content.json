@@ -1,0 +1,17 @@
+{
+ "address": "1BLogC9LN4oPDcruNz3qo1ysa133E9AGg8",
+ "cert_auth_type": "web",
+ "cert_sign": "HNZcpoGCXFtWwQ+mCu+1fhxKRMYuHxIHNDdWieW/e4ktbuHqpaf0QsjhHcB+uGd6O0J1qmeNiNJoeQ8c77+DCuI=",
+ "cert_user_id": "dayo1982@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "477f94a1bfe3ad8bfe2b96280f98d570f54d6b1f73982a048bbd7418871a900e",
+   "size": 186
+  }
+ },
+ "inner_path": "data/users/13VrewgUWNDCngneyhRJWbHsXaZiTaq1VT/content.json",
+ "modified": 1508477249,
+ "signs": {
+  "13VrewgUWNDCngneyhRJWbHsXaZiTaq1VT": "HNcU3egGu3BPsEarMIRhLP2WKGxghlP79xuTucjfhlykEHsQqYG3ixdxRLABAUGD+TyGAlZF6eqwQ8yTmp5cKBQ="
+ }
+}

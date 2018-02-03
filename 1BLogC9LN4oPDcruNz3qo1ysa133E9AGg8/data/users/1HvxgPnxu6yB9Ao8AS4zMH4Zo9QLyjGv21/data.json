@@ -1,0 +1,19 @@
+{
+	"next_comment_id": 4,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "What ils pyasn?",
+			"post_id": 108,
+			"date_added": 1492334740
+		},
+		{
+			"comment_id": 3,
+			"body": "Who is count the user of website? For example me i 77 users",
+			"post_id": 110,
+			"date_added": 1499604836
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {}
+}

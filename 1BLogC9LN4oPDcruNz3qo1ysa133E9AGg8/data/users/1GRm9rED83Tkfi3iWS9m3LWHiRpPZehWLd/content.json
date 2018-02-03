@@ -1,0 +1,17 @@
+{
+ "address": "1BLogC9LN4oPDcruNz3qo1ysa133E9AGg8",
+ "cert_auth_type": "web",
+ "cert_sign": "G86lGmV1bOyDOIexjzy0gYYtppBTS0HBJKkE2bnrCr6VFP6fedkza2D2hAg+++jH/54n3uMzqUcj5LaVIB+6boQ=",
+ "cert_user_id": "zgedu@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3cf0e0a2ef72661eb450048ba056e1c6b309e4ff7616c7e9b6f4b708f74504c6",
+   "size": 208
+  }
+ },
+ "inner_path": "data/users/1GRm9rED83Tkfi3iWS9m3LWHiRpPZehWLd/content.json",
+ "modified": 1497827772,
+ "signs": {
+  "1GRm9rED83Tkfi3iWS9m3LWHiRpPZehWLd": "G4W8PWGF5cl9PAQWgSMde9EpMlQG4sxIuusQ3qpiDWGrBlkQXGULAgsCEu2chDY09c0YuHdAxm5lilysPns/wUo="
+ }
+}

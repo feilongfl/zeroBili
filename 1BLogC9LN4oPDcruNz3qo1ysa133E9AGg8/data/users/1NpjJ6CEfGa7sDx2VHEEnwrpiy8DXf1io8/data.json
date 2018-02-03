@@ -1,0 +1,13 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "nofish can you please look at zeromail. I just registered and sent a test email to echobot@zeroid.bit but it didn't return it like it's supposed to.",
+			"post_id": 123,
+			"date_added": 1514156562
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {}
+}

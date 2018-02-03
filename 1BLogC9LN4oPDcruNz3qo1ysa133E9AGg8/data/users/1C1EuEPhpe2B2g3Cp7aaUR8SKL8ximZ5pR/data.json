@@ -1,0 +1,19 @@
+{
+	"next_comment_id": 4,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "GG",
+			"post_id": 61,
+			"date_added": 1502720948
+		},
+		{
+			"comment_id": 2,
+			"body": "great",
+			"post_id": 116,
+			"date_added": 1503115216
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {}
+}

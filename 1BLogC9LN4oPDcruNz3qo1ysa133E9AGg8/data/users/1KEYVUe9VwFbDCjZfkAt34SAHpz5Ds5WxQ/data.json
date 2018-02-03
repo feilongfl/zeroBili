@@ -1,0 +1,19 @@
+{
+	"next_comment_id": 3,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@nofish: Your repo ZeroNet On  GitCenter, Is exceeded the 20mb But The Problem : gitcenter each repos redirect to main site, so cannot click the button in notification for to up 20mb :/ i try to modify sites.json no success :(",
+			"post_id": 123,
+			"date_added": 1513178576
+		},
+		{
+			"comment_id": 2,
+			"body": "> [nofish](#comment_246_1J3rJ8ecnwH2EPYa6MrgZttBNc61ACFiCj): Yeah I'm aware the problem (Currently it's 8.5MB, so it did not passed 10MB limit yet), I will add the possibility to ZeroHello to increase the site limit without opening the site.Until then you can do it here: http://127.0.0.1:43110/1P4w4Rvh4vS9r6G5xTiSh8qEW87EKZtnJB/admin.html\n\nthank you!",
+			"post_id": 123,
+			"date_added": 1513178730
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {}
+}

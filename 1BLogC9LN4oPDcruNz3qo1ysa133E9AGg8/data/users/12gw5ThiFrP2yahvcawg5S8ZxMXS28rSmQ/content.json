@@ -1,0 +1,17 @@
+{
+ "address": "1BLogC9LN4oPDcruNz3qo1ysa133E9AGg8",
+ "cert_auth_type": "web",
+ "cert_sign": "HOepu/5IZpQ3YgqLIuBfKou7UZBzwry/AcrQh27l+sVie3K69jlg4TovoQMSXJ5iTJZE0wSJjvRW+XljOzMHzSQ=",
+ "cert_user_id": "plato@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ffe2a9b69d76ae42038a3cf38b4b5a46b4799e0eb9a2a580f55a2a43b2014661",
+   "size": 184
+  }
+ },
+ "inner_path": "data/users/12gw5ThiFrP2yahvcawg5S8ZxMXS28rSmQ/content.json",
+ "modified": 1503170953,
+ "signs": {
+  "12gw5ThiFrP2yahvcawg5S8ZxMXS28rSmQ": "G9nQCLwxp1uOxKbssWBGdjFrBLaxoeXDl/TI/LB/oiB3KprhotBusmTNSlUNbd7mB86lS13x1/0eS63Nodm5mtU="
+ }
+}

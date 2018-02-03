@@ -1,0 +1,15 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Thank's for your work!",
+			"post_id": 121,
+			"date_added": 1509445455
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"121": 1
+	}
+}

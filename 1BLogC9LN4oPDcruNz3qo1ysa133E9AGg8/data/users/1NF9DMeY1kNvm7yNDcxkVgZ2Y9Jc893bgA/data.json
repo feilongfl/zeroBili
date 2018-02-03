@@ -1,0 +1,13 @@
+{
+	"next_comment_id": 2,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Wow. Nice one!",
+			"post_id": 121,
+			"date_added": 1507210811
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {}
+}

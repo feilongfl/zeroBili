@@ -1,0 +1,17 @@
+{
+ "address": "1BLogC9LN4oPDcruNz3qo1ysa133E9AGg8",
+ "cert_auth_type": "web",
+ "cert_sign": "HEtjWrAYnKEx74SLvFzcZT9HmQfZ/nMXYZIrAhphBUUhz6NrWg2fJF6yFzVmCZ8zsULFiiKOZ4GLnDTriH+ACCU=",
+ "cert_user_id": "nekocross@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "4c3f1b716c59e68176560dfbb07cc4a4413dadac3d0487d8d450f02c17b5eafc",
+   "size": 1072
+  }
+ },
+ "inner_path": "data/users/1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz/content.json",
+ "modified": 1499095480,
+ "signs": {
+  "1FHN4oukAG7zFUpiC9L2iz7QpQVTuT3xkz": "G6Mio8+o5ASNZmVzrFqBRAwUecch8qV8FAAJRw7Cg7n3Z7EjVw4qavHX6WV7V67+28OB5assgKacm/X/OsEwTD8="
+ }
+}

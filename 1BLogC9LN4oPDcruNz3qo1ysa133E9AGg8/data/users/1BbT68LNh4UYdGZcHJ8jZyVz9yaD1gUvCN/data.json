@@ -1,0 +1,19 @@
+{
+	"next_comment_id": 3,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "大家好，刚来还不熟悉该怎么玩。",
+			"post_id": 3,
+			"date_added": 1502974030
+		},
+		{
+			"comment_id": 2,
+			"body": "不知道怎么用还得再研究研究。。。。",
+			"post_id": 3,
+			"date_added": 1502974152
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {}
+}

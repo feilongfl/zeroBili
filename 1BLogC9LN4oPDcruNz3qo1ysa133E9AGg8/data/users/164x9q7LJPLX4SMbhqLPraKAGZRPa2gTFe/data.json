@@ -1,0 +1,31 @@
+{
+	"next_comment_id": 4,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "> [hexkey](#comment_3_18NsJqjikBYBjwLzMVp7aBJSpqtyRSd9qF): Hi:\n> I'm not sure that limiting zip files to 6mb is the best way of avoiding zip bombs--they don't really need any size requirements to create:\n> http://www.unforgettable.dk\n> Maybe a feature like the file size permission dialog would work better?\n\nGood point wow, unless the unarchiver tool can detect the unzipped size of the archive, limiting the zip size to 6MB is pretty useless.",
+			"post_id": 114,
+			"date_added": 1500534666
+		},
+		{
+			"comment_id": 2,
+			"body": "Wow, that git site is amazing! Totally going to stick all my ZeroNet stuff that I make on there! Also some great smaller features/bugfixes. I look forward to the archiving feature, going to be really necessary for some people's use cases.",
+			"post_id": 123,
+			"date_added": 1512542799
+		},
+		{
+			"comment_id": 3,
+			"body": "Test",
+			"post_id": 123,
+			"date_added": 1513567273
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"114": 1,
+		"116": 1,
+		"121": 1,
+		"122": 1,
+		"123": 1
+	}
+}

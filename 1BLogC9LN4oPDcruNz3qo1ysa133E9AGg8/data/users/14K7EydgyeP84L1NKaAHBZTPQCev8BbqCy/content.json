@@ -1,0 +1,17 @@
+{
+ "address": "1BLogC9LN4oPDcruNz3qo1ysa133E9AGg8",
+ "cert_auth_type": "web",
+ "cert_sign": "HGzoU+RtqkkE0UMI8R5dXPrOKKApzCT5/3U8+2gWorvx0IoA5hYwhMTsLzvuTbapDZlB+L3qj4OzwIbKwjGVKAA=",
+ "cert_user_id": "glightstar@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "705cefa13d6a50048c53acc0dd463c36716cfa8890b9c62af415ff852ba8b1ac",
+   "size": 140
+  }
+ },
+ "inner_path": "data/users/14K7EydgyeP84L1NKaAHBZTPQCev8BbqCy/content.json",
+ "modified": 1516376084,
+ "signs": {
+  "14K7EydgyeP84L1NKaAHBZTPQCev8BbqCy": "HJlooCcAA97AgF9SdY6Yet38k5Z8F8EOVvXeqjGE5DcIEZvp6Cn52MVxP0AkPSR0OUK+2p6NHpy8EpLxb345XtE="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1BLogC9LN4oPDcruNz3qo1ysa133E9AGg8",
+ "cert_auth_type": "web",
+ "cert_sign": "G/8uDhL8uCV8KqUm/GcbzvCuzUyZ6BO1luD+VCqqUhghIoGbsfvN5mws5VXQgvxY2hHRJMF1mhihQ8EwBW3rVMk=",
+ "cert_user_id": "flappyearz@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "ec06243f2138bc1f2331adf5a257ae489937dd49c1c510217978f7fad9d3afc3",
+   "size": 1596
+  }
+ },
+ "inner_path": "data/users/1QEfmMwKVxgR4rkREbdJYjgUmF3Zy8pwHt/content.json",
+ "modified": 1506614328,
+ "signs": {
+  "1QEfmMwKVxgR4rkREbdJYjgUmF3Zy8pwHt": "GwouWXaTZAkcN16YyC805s10lkkfgxnELtwTSpUT8dI7RZ+AkyVNaUU4HMUABncsvFkOfOHCbyizTtvgdWeZJZI="
+ }
+}

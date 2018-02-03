@@ -1,0 +1,39 @@
+{
+	"next_comment_id": 4,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "@nofish: I probably find a big bug in ZeroSites. If I delete a site I submitted which has some inner address, like [this one](http://192.168.1.110:43110/1GiJUPsfiS3LWCyZj5urW1Rt2q9WwRh4wB/?Post:15:ZeroNet+-+Tips,+tricks+and+beginners%27+questions). The sites I submitted after this one will all get deleted. Repeatable. Hope for a quick fix. Also thx for the nice new site.\n\nAnd a small problem: if the title of a site is too long, the 'EDIT' button will get hidden.",
+			"post_id": 110,
+			"date_added": 1497204731
+		},
+		{
+			"comment_id": 2,
+			"body": "Works very well! Well done!!!",
+			"post_id": 121,
+			"date_added": 1507217086
+		},
+		{
+			"comment_id": 3,
+			"body": "> [weakish](#comment_5_1GnJD7CXskmG8GywMbTvbP12wneCFW9XzR): How can I cancel a downloading download/seed? I have to wait it to be fully downloaded then remove them in ZeroHello files?\n\nYou can cancel it by deleting the file from ZeroHello -> File Manager. You may need to hit \"Check files\" from ZeroHello -> ZeroUp 3-dot menu to remove some \"failed files\" errors.",
+			"post_id": 121,
+			"date_added": 1507349212
+		}
+	],
+	"comment_vote": {},
+	"post_vote": {
+		"101": 1,
+		"102": 1,
+		"109": 1,
+		"113": 1,
+		"115": 1,
+		"116": 1,
+		"117": 1,
+		"120": 1,
+		"121": 1,
+		"122": 1,
+		"123": 1,
+		"124": 1,
+		"125": 1
+	}
+}

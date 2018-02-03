@@ -1,0 +1,17 @@
+{
+ "address": "1BLogC9LN4oPDcruNz3qo1ysa133E9AGg8",
+ "cert_auth_type": "web",
+ "cert_sign": "G+aEI2EQhnm+1nUMOLI6C6yB0Lg8chb0oY43nFTHc7cLNIpY8TOyPyehrboCS3+1yKWYmMnxOLTzBufeFmzNxp8=",
+ "cert_user_id": "bennyloo@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "3e48e0d8fc41e776433dd0f6b087b3f46bcfdb234fcacfe9237459a90250a171",
+   "size": 308
+  }
+ },
+ "inner_path": "data/users/14gqHyrgrMUGnt3wQ35ViSwpqaxUaat2GU/content.json",
+ "modified": 1495521126,
+ "signs": {
+  "14gqHyrgrMUGnt3wQ35ViSwpqaxUaat2GU": "GwP9FYIDA+SoQV5j/pBblT1XoM/MMNzkmkudmCEhVbyDEkCOt5cIQkhGW1lNBHNgF6VbgxDpBx4lCS4TmHrQQZg="
+ }
+}

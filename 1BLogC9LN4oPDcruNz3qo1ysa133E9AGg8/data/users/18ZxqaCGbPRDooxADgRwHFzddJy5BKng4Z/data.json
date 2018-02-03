@@ -1,0 +1,19 @@
+{
+	"next_comment_id": 3,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "Hi @nofish I'm really impress by your work, but if I understand correctly the way it's work, when a visitor comes on a site, he download the whole source am I right ?\n\nBut merchant site with more or less 1 million visitor/month weight easily more than 100 GO, so how does it work then ?",
+			"post_id": 34,
+			"date_added": 1494850965
+		},
+		{
+			"comment_id": 2,
+			"body": "> [druss](#comment_1_18ZxqaCGbPRDooxADgRwHFzddJy5BKng4Z): Hi @nofish I'm really impress by your work, but if I understand correctly the way it's work, when a visitor comes on a site, he download the whole source am I right ?\n> But merchant site with more or less 1 million visitor/month weight easily more than 100 GO, so how does it work then ?\n\nI'm answering to myself, it seems there is a \"optionnal file\" config which let visitor downloading only what they need, I will dig it to understand how it works.",
+			"post_id": 34,
+			"date_added": 1494851385
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {}
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1BLogC9LN4oPDcruNz3qo1ysa133E9AGg8",
+ "cert_auth_type": "web",
+ "cert_sign": "G93StF7sNk18hYQmfLQ6H29rVlxTscRnu3y+fOdi32hpozJ+339PuiYcLQGILA4NZ33rkREleG8OUg4TWiYap8o=",
+ "cert_user_id": "luxin@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "414a6912d87aa7dd92d1346f35e38417d4e75300af81d2a36b67da22f2ec1595",
+   "size": 213
+  }
+ },
+ "inner_path": "data/users/14g3wu6kZb9GK5VaVLzhdxEzQ1J12VU7wM/content.json",
+ "modified": 1495386954,
+ "signs": {
+  "14g3wu6kZb9GK5VaVLzhdxEzQ1J12VU7wM": "HIZAo18pPY5svHdG2aud/jemTifjrkJEOeRpjKMw1cYDGA8fpe2UxAYnZxDGlrPEWfK8k9K7HpcBxP2omJb+C+g="
+ }
+}

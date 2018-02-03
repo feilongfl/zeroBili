@@ -1,0 +1,17 @@
+{
+ "address": "1BLogC9LN4oPDcruNz3qo1ysa133E9AGg8",
+ "cert_auth_type": "web",
+ "cert_sign": "HN/Px5vInkH3Q6+rPxnqQOA1TvjpSjAAWqlPufCiBhtDYriFYexLn4SJl225+42vEWHYq5fyDD29aD1T5XgHljk=",
+ "cert_user_id": "cybertan@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "dff9f755666f195d88d50f0c90fcdda1e7fff64435372a4092b0bab47a15fcce",
+   "size": 185
+  }
+ },
+ "inner_path": "data/users/1P1bfh7gNqrhy1Tb6orC8vandjZsLzjGNG/content.json",
+ "modified": 1502444962,
+ "signs": {
+  "1P1bfh7gNqrhy1Tb6orC8vandjZsLzjGNG": "G4o/tvvV1ZGgOIcImL5fIHa1ff1Woneg1//PBU2LDR60FjM+/UMWIQo8d61TOYYACUxAxpRgRWeun8XNKmMNgmY="
+ }
+}

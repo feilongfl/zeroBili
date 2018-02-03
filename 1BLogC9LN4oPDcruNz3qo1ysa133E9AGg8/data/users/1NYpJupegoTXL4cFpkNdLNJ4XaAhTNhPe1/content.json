@@ -1,0 +1,17 @@
+{
+ "address": "1BLogC9LN4oPDcruNz3qo1ysa133E9AGg8",
+ "cert_auth_type": "web",
+ "cert_sign": "HFF8SAcq4wrDkgRv/1B57HsjMx6/6TQd80uyGWbpeZeJwQEBEFRYC8WgRpc7Rj5IlPm5525bhnxsfpkqNRNNX98=",
+ "cert_user_id": "organicdesign@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "12546c86c361e0bbb50fd410a158e13e09fc1094661c9e66b367fe6367b98b41",
+   "size": 93
+  }
+ },
+ "inner_path": "data/users/1NYpJupegoTXL4cFpkNdLNJ4XaAhTNhPe1/content.json",
+ "modified": 1497535771,
+ "signs": {
+  "1NYpJupegoTXL4cFpkNdLNJ4XaAhTNhPe1": "G2OjOhgFkHVPE7rMXFAiHzoFqTXWGaZEpUYAW+jVkP+wc0V2j/TBp/a5/7KvjHDsXQk9C4iUmNutliIq3+OLhzI="
+ }
+}

@@ -1,0 +1,22 @@
+{
+	"next_comment_id": 3,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "ni hao",
+			"post_id": 3,
+			"date_added": 1507997712
+		},
+		{
+			"comment_id": 2,
+			"body": "mark",
+			"post_id": 99,
+			"date_added": 1508192955
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {},
+	"post_vote": {
+		"99": 1
+	}
+}

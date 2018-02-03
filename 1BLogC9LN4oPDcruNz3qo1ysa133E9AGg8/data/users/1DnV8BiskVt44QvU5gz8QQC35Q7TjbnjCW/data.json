@@ -1,0 +1,22 @@
+{
+	"next_comment_id": 3,
+	"comment": [
+		{
+			"comment_id": 1,
+			"body": "very nice",
+			"post_id": 3,
+			"date_added": 1505222389
+		},
+		{
+			"comment_id": 2,
+			"body": "ok> [stonessss](#comment_1_16R9uD6pPoKPJqHPnMTmkQyfJqvEvu9Lwb): @jeriming，are you ok !?\n\n",
+			"post_id": 3,
+			"date_added": 1505222724
+		}
+	],
+	"comment_vote": {},
+	"topic_vote": {},
+	"post_vote": {
+		"117": 1
+	}
+}

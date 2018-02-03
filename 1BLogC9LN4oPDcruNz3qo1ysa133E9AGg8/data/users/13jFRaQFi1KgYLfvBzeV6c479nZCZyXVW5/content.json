@@ -1,0 +1,17 @@
+{
+ "address": "1BLogC9LN4oPDcruNz3qo1ysa133E9AGg8",
+ "cert_auth_type": "web",
+ "cert_sign": "HMWE6ZvRfT2wRNWzDhY03fD+FUgp8gjDVuwsLkXF9yt07Dt3tJGg5hTuppXj0REyhZMJtI6SjONJboUaPBjhCec=",
+ "cert_user_id": "cryptojedi@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "1460d3d6112a38cec9f8121e270ea88f8d229c686c53c03b384e0335d73aeeaa",
+   "size": 281
+  }
+ },
+ "inner_path": "data/users/13jFRaQFi1KgYLfvBzeV6c479nZCZyXVW5/content.json",
+ "modified": 1503183224,
+ "signs": {
+  "13jFRaQFi1KgYLfvBzeV6c479nZCZyXVW5": "G3+HwF9/WxWSH8oavi4CQU0ZvkMsb7UrBWovsnfmGyrNeBoD6CjoTSx70vAOCjdPEYFDCfGhwSFTlse3VCuZS10="
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "address": "1BLogC9LN4oPDcruNz3qo1ysa133E9AGg8",
+ "cert_auth_type": "web",
+ "cert_sign": "HGa46OLgW1ucNYvnTMNbpiPSjbK61TXHwI4Z9DIffvooJxSxMjByP9hu9QAck5eynF8EtVM7dCJXk0iee84IVAs=",
+ "cert_user_id": "droidmax@zeroid.bit",
+ "files": {
+  "data.json": {
+   "sha512": "b03e9597a7f76d68892efc58f5a19cd84d415e761775a1a47027c479f2b57862",
+   "size": 229
+  }
+ },
+ "inner_path": "data/users/1PQZPsYaiVtL64GxQfjgWZozigbNnUm7BY/content.json",
+ "modified": 1513417736,
+ "signs": {
+  "1PQZPsYaiVtL64GxQfjgWZozigbNnUm7BY": "HBXgcHQvPFes8G3rrStiowy1hfX/tA9hFoVU7M9YHMQpJBWftwUb59nPzY+0Hzq9U97AhBbBTtavI5PKDDTK/9U="
+ }
+}
