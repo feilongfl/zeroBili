@@ -1,9 +1,14 @@
 {
  "address": "1CbEFy4DrXttArPFPMfXKVzZkWWhNZrm3J",
- "files": {},
+ "files": {
+  "content-default.json": {
+   "sha512": "0603ce08f7abb92b3840ad0cf40e95ea0b3ed3511b31524d4d70e88adba83daa",
+   "size": 679
+  }
+ },
  "inner_path": "data/users/content.json",
- "modified": 1517663405,
+ "modified": 1517664853,
  "signs": {
-  "1CbEFy4DrXttArPFPMfXKVzZkWWhNZrm3J": "HKTRn7HIoMrUeWS1V6VN3jHvJe4Kul/dWYhmNprPeN3SdRs2SrxUHN834eelxdOkptK+ombP1Suld8KPKlzzQyk="
+  "1CbEFy4DrXttArPFPMfXKVzZkWWhNZrm3J": "G4dhw12NspoawlQVntZ4aoZFWzyS36SBRxDrV9NeLd7XG8jgWHwgUy2VYunC7QQ5r2NLZ4knjbdonCCOMGxxTxM="
  }
 }
