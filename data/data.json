@@ -1,7 +1,7 @@
 {
-	"title": "MyZeroBlog",
-	"description": "My ZeroBlog.",
-	"links": "- [Source code](https://github.com/HelloZeroNet)",
+	"title": "zeroBili",
+	"description": "A acg website based on zeroNet.",
+	"links": "- [Source code](https://github.com/feilongfl/zeroBili)",
 	"next_post_id": 2,
 	"demo": false,
 	"modified": 1432515193,
