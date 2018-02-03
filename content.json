@@ -1,11 +1,159 @@
 {
- "address": "1BLogC9LN4oPDcruNz3qo1ysa133E9AGg8",
+ "address": "1CbEFy4DrXttArPFPMfXKVzZkWWhNZrm3J",
  "background-color": "white",
  "cloneable": true,
  "default_page": "index.html",
  "description": "Blogging platform Demo",
  "domain": "Blog.ZeroNetwork.bit",
  "files": {
+  ".git/COMMIT_EDITMSG": {
+   "sha512": "f9bef45cab7ded8eb39c04768b9ee75cae505e4f0bd5b073fb1f463030aee3c7",
+   "size": 15
+  },
+  ".git/FETCH_HEAD": {
+   "sha512": "ad6be8713820529e5c6ef4fb0794fc698236139e02f0d1f27229e226b9c3f51a",
+   "size": 91
+  },
+  ".git/HEAD": {
+   "sha512": "76b199f1bffdc6d21547895431b0f85f3857df400225cbd1ae55e7ded09786a8",
+   "size": 23
+  },
+  ".git/ORIG_HEAD": {
+   "sha512": "7fdf6160fd94e0b1d9bbcca110e4f458fc716d3c2e536993118d963cab1ebd3a",
+   "size": 41
+  },
+  ".git/config": {
+   "sha512": "f56f8185a03ae88cdfbc5c337eef0a5ce89e9fc15beab8557b2c9ddd738558c8",
+   "size": 262
+  },
+  ".git/description": {
+   "sha512": "f7e152f75b124c3e1c5d12f00427729d9eec4e2c1bf70d7606440a6600d00336",
+   "size": 73
+  },
+  ".git/hooks/applypatch-msg.sample": {
+   "sha512": "536cce804d84e25813993efdd240537b52d00ce9cdcecf1982f85096d56a5212",
+   "size": 478
+  },
+  ".git/hooks/commit-msg.sample": {
+   "sha512": "d6bb7fa747f4625adf1877f546565cbe812ca7dd4168f7e9068e6732555d8737",
+   "size": 896
+  },
+  ".git/hooks/fsmonitor-watchman.sample": {
+   "sha512": "4f611b6fc08db7552a0eaca432c41d1114cd4daa066d9fc722f34f6de05ec3ee",
+   "size": 3327
+  },
+  ".git/hooks/post-update.sample": {
+   "sha512": "473ad124642571656276bf83b9ff63ab1804d3c23a5bdae52391c6f70a894849",
+   "size": 189
+  },
+  ".git/hooks/pre-applypatch.sample": {
+   "sha512": "cb78aa7e9b9c146e5db65d86dd83f04e2b6942a06fab50c704a0fd900683f3b6",
+   "size": 424
+  },
+  ".git/hooks/pre-commit.sample": {
+   "sha512": "4a7ac2ed2ffe50d2a997c3477b5855c3d19423c295a82f7d660be3418217a183",
+   "size": 1642
+  },
+  ".git/hooks/pre-push.sample": {
+   "sha512": "37cd20a090494acb16c2255fe93dadeb409f2553afddc409dad5b5e99c9f5612",
+   "size": 1348
+  },
+  ".git/hooks/pre-rebase.sample": {
+   "sha512": "00d21d5d72386c3d9b5a1c36ba85201f730556a8295d4353af54af7892ab8101",
+   "size": 4898
+  },
+  ".git/hooks/pre-receive.sample": {
+   "sha512": "ee08c11fab7e896b2e09c241954ba7640338b12c75cd8040daf053c31b2f2223",
+   "size": 544
+  },
+  ".git/hooks/prepare-commit-msg.sample": {
+   "sha512": "50ec8a0dd98427e80a82a8d8ce44462a845876e1594c9d0e89483ce9a8aaad61",
+   "size": 1492
+  },
+  ".git/hooks/update.sample": {
+   "sha512": "759abd33e5d1dda9b3e3d3116c47b23f616320d70cd66d567b1c4eeefeb6d785",
+   "size": 3610
+  },
+  ".git/index": {
+   "sha512": "94953530b519f80174258491758834ffc603c4e3710d4c02a1065a9f9a8d3db2",
+   "size": 1759
+  },
+  ".git/info/exclude": {
+   "sha512": "9828c6ecdf91bf117416e17f4ee9caee2e1e37b6fb00b9ff04035ace17a3089b",
+   "size": 240
+  },
+  ".git/logs/HEAD": {
+   "sha512": "281696377f88f3f8929c6433de93671356c2480ae32ed7932aa891ce27f07ae2",
+   "size": 1234
+  },
+  ".git/logs/refs/heads/master": {
+   "sha512": "d0bcd0173cffdf2978190d611d0ea8a06a81a49e08b575db155c06c16bdaa848",
+   "size": 618
+  },
+  ".git/logs/refs/remotes/origin/master": {
+   "sha512": "58c856245716ff5ffa30f3f78f94a9b63dd0450df3170e53de23b9d144e4ff54",
+   "size": 600
+  },
+  ".git/objects/08/c59ba4f6b710600c51e27a2b3b00bc6a698e73": {
+   "sha512": "e02c469ac823f1c8fd86b7e6c73ce94f4823c11120f18b217ffdabec8ead5aac",
+   "size": 85
+  },
+  ".git/objects/0d/97d9e9ac2935b860db5ba361753603ac313f2c": {
+   "sha512": "5ac93ddf4b44c44f4602e7bf5bb89a1634a33e178a7af5b730cb7a7ef4bf1a5f",
+   "size": 1230
+  },
+  ".git/objects/28/35ff0f960e7fcca4505b33dc03ca8b6caa5445": {
+   "sha512": "842402c197c152e7d94f05bd39d48f752d2a56f0a2d10b2334c316df69b56df2",
+   "size": 371
+  },
+  ".git/objects/2a/d23a0150670436dba99de879a1e04069327dbd": {
+   "sha512": "69498fa9ffabf3bc3fff061fc79afb07b2e9f1edc0502505c2af5310f8a80786",
+   "size": 120
+  },
+  ".git/objects/3e/01be6cb3c9aa051ef908a0895a70387a43481c": {
+   "sha512": "3a327aab60e8c797844ef9d396eb3b5012a8f7f8754cb373c89efd0ab9a725d2",
+   "size": 171
+  },
+  ".git/objects/3e/550f7f7fa632bf478da0f4a00fa81316cf03b1": {
+   "sha512": "b46326f11b2692bc22eb8c37913e5a8b56ec32c1694b293318d9e88cbac2dc0b",
+   "size": 650
+  },
+  ".git/objects/4f/e3d696515ffd528d20343f4598893f871fc153": {
+   "sha512": "7f6216ec981e924a8ed86e6a566829183c0b65699576e60653c76be5e80b6dd9",
+   "size": 131
+  },
+  ".git/objects/7e/bb96fbc1e28ea6e0e73bfca65fd2af3d84e125": {
+   "sha512": "1e1f67e7122b6a3fee298fc553ba2a8f2d36a73cbba01f1a6fbba78471386e73",
+   "size": 152
+  },
+  ".git/objects/87/616fb65424783988686b5edb95968a0f7841c4": {
+   "sha512": "f9a15a81e5f8d97dc628260fdcf7bffd58414b6c73ca819d3236abeebd753cff",
+   "size": 57
+  },
+  ".git/objects/c8/898e12f7e31a0bc5f6bcd0e754db6ffb6c3b90": {
+   "sha512": "5d1a65dd0ad7dae8209423a12c05dd62dedc18ee92a1c059706174fc3e2b7f53",
+   "size": 625
+  },
+  ".git/objects/f2/9bdccb1d6d48406fae15c5562659d05be2a3cb": {
+   "sha512": "f60a02314fb080e8627c008cebb8ca8417b9f3f19a2de2407f8d2f02b973a953",
+   "size": 347
+  },
+  ".git/objects/pack/pack-9b32adfeb3d896e9a7d130898fb761025d5f225a.idx": {
+   "sha512": "ae464ff652bd3b1893e60c15a6f62b26f06023609307783af7901a2ad288303d",
+   "size": 86724
+  },
+  ".git/objects/pack/pack-9b32adfeb3d896e9a7d130898fb761025d5f225a.pack": {
+   "sha512": "af02401844f1d445485d94cce38d37ceb1a9b4f1de89f1d05c409bf7ce67bc38",
+   "size": 3912847
+  },
+  ".git/refs/heads/master": {
+   "sha512": "34913d0871da1ea25b724d5b49d9ed5df2215ad8f998eb964027c94b3c2e3c79",
+   "size": 41
+  },
+  ".git/refs/remotes/origin/master": {
+   "sha512": "34913d0871da1ea25b724d5b49d9ed5df2215ad8f998eb964027c94b3c2e3c79",
+   "size": 41
+  },
   "alloy-editor/all.css": {
    "sha512": "7f92b9206df4994b119df0123734193ad95c5961c2b5190aa1e60f394026d150",
    "size": 63384
@@ -25,210 +173,6 @@
   "data-default/users/content-default.json": {
    "sha512": "0603ce08f7abb92b3840ad0cf40e95ea0b3ed3511b31524d4d70e88adba83daa",
    "size": 679
-  },
-  "data/data.json": {
-   "sha512": "85ab2b17092cbb106739faaf46209685acf4a2fc118477cd96fb07e397743b64",
-   "size": 150206
-  },
-  "data/files/ZeroFrame.coffee": {
-   "sha512": "e9d440c26e858ff524313e60881714bcaf292470ce63d2b33b93d9920a21a7c4",
-   "size": 1467
-  },
-  "data/img/allony.png": {
-   "sha512": "2cf2ef70d1dbf2395384581ffb0e1cc9e8dfa5a64441e5ab7c08477127fb6d9a",
-   "size": 1572
-  },
-  "data/img/autoupdate.png": {
-   "sha512": "d2b4dc8e0da2861ea051c0c13490a4eccf8933d77383a5b43de447c49d816e71",
-   "size": 24460
-  },
-  "data/img/clone.png": {
-   "sha512": "07df9f39af99b2a4348f1f0984b0e8667add7821a689e0a737df49bd68411def",
-   "size": 11539
-  },
-  "data/img/decentralized_web_summit.png": {
-   "sha512": "90f83d91ea366eeb13c5874c0d25ef6efa6d20cc6e3f556fdc4de949d58248a4",
-   "size": 25428
-  },
-  "data/img/direct_domains.png": {
-   "sha512": "5f14b30c1852735ab329b22496b1e2ea751cb04704789443ad73a70587c59719",
-   "size": 16185
-  },
-  "data/img/domain.png": {
-   "sha512": "ce87e0831f4d1e95a95d7120ca4d33f8273c6fce9f5bbedf7209396ea0b57b6a",
-   "size": 11881
-  },
-  "data/img/getd.png": {
-   "sha512": "22987f498e2dd6e5dee9f6367fec22fa1d2ad3538b2455d1d9e3fc400d1933db",
-   "size": 36735
-  },
-  "data/img/memory.png": {
-   "sha512": "dd56515085b4a79b5809716f76f267ec3a204be3ee0d215591a77bf0f390fa4e",
-   "size": 12775
-  },
-  "data/img/multiuser.png": {
-   "sha512": "88e3f795f9b86583640867897de6efc14e1aa42f93e848ed1645213e6cc210c6",
-   "size": 29480
-  },
-  "data/img/new_zeronet_logos.png": {
-   "sha512": "a8685d5d8d9d84a83710a1316ee7b8f998f14918cef32e14217d5e45f156aa20",
-   "size": 59816
-  },
-  "data/img/optional.png": {
-   "sha512": "84df27a2ee59f18bc646ed4e6610a6ca7569fad2e85198ba9aa278a3258f35c3",
-   "size": 104799
-  },
-  "data/img/optional_manager.png": {
-   "sha512": "f0df2c1df5106f63e922ac0b65388d97bab1e7c26f6bf06469b44eae8b798cec",
-   "size": 29008
-  },
-  "data/img/peers.jpg": {
-   "sha512": "3142ae89ed2347953033068fd789ac316692a3bdcbbf01257326685fc1402be9",
-   "size": 67768
-  },
-  "data/img/pocketchip.jpg": {
-   "sha512": "05ddad3659e71dfbc6afbba3faaf680c810636ea2319e1e9950ed462cfa75d01",
-   "size": 131607
-  },
-  "data/img/post_101_ezgif.com-f1dae34e05.gif": {
-   "sha512": "ee45043be1c79a1ef952f2ab030d24b63592790b572750b8bf42544d80a228e3",
-   "size": 15609
-  },
-  "data/img/post_101_plus.png": {
-   "sha512": "e8d3bd6fe509e79389385389d66874a388a8474218c3ef5b3cf9339196d0633d",
-   "size": 243
-  },
-  "data/img/post_102_1484303724.jpg": {
-   "sha512": "1e75a71128f3675389ccef9748d071b779ef8635db826f933dffdccf2e6fed61",
-   "size": 90260
-  },
-  "data/img/post_102_peers.jpg": {
-   "sha512": "37c064e0b8fafa801a6264e9495d515b7468fa387566d329debd80e66cc7ebcf",
-   "size": 79172
-  },
-  "data/img/post_103_publish.png": {
-   "sha512": "ace77f3163cd0de7dc560d18cecd73b3e6cd8a5b32751d4038c65c400521e88c",
-   "size": 1087
-  },
-  "data/img/post_104_mute.png": {
-   "sha512": "6bdad39da3dfbc3db3a57e52fc10d9205cf0729a6cd124e7e5c8704a130161b4",
-   "size": 15562
-  },
-  "data/img/post_107_1489106790.jpg": {
-   "sha512": "d26b09e35853fe3d2b69ce2e1b3532af4fa830dff7fc8bf8248114a21a54aea0",
-   "size": 97447
-  },
-  "data/img/post_108_tor_hs_limit.png": {
-   "sha512": "f42e8b8e03856ede429c7bf97ce7490f33a541881a5943eedb9601b617696aab",
-   "size": 4254
-  },
-  "data/img/post_109_blacklist.png": {
-   "sha512": "d8211426370fe3ee03306b15c2896d1242dacf44d026d09953a42c13dd727876",
-   "size": 6186
-  },
-  "data/img/post_110_zerosites.png": {
-   "sha512": "07a87584e2f95b42bf0880594b4aab54809b04c3acc14ba297370bec444e9d4f",
-   "size": 40366
-  },
-  "data/img/post_113_mavo.jpg": {
-   "sha512": "174eb14349a5f6e9679b3acf7cb0545cd91544fb1058312c460e873fa5eb288e",
-   "size": 121176
-  },
-  "data/img/post_115_mobile-sm.png": {
-   "sha512": "e0b76406a9ef06d3f7fdc29036d77162e661efe063c9038b53f7611f432622b4",
-   "size": 70656
-  },
-  "data/img/post_116_20785768_1658990647475567_7520728110450357066_o.jpg": {
-   "sha512": "958bb514ec019267ca6c1c7f25d9950530728e04cc1eee33b571b9f8f1c3a58d",
-   "size": 72858
-  },
-  "data/img/post_121_zeroup.png": {
-   "sha512": "2cf2f8ed080534251a5ef4e454fe25674411391ec1b142e20bc4c20c755dbce9",
-   "size": 51890
-  },
-  "data/img/post_124_chart_top.jpg": {
-   "sha512": "6d4f6e8d72b8612bef0e62e4d36a72800344c834f72311ee5f9bb5e97718806a",
-   "size": 170450
-  },
-  "data/img/progressbar.png": {
-   "sha512": "23d592ae386ce14158cec34d32a3556771725e331c14d5a4905c59e0fe980ebf",
-   "size": 13294
-  },
-  "data/img/search.png": {
-   "sha512": "b5adf6562b0078bdda257d216a07b43fa6f81e0989fcabf83817ef072cbeb1f1",
-   "size": 18735
-  },
-  "data/img/sidebar.png": {
-   "sha512": "e5fdafcc7226f830eb27a1296236aa985625e27480e6829660db978ceae0bba9",
-   "size": 98641
-  },
-  "data/img/slides.png": {
-   "sha512": "1933db3b90ab93465befa1bd0843babe38173975e306286e08151be9992f767e",
-   "size": 14439
-  },
-  "data/img/slots_memory.png": {
-   "sha512": "82a250e6da909d7f66341e5b5c443353958f86728cd3f06e988b6441e6847c29",
-   "size": 9488
-  },
-  "data/img/startup.png": {
-   "sha512": "d9f4d652396bbb89f0508e3e3908bd03408e99681f33e47f790b53a9b1c4fafc",
-   "size": 4257
-  },
-  "data/img/trayicon.png": {
-   "sha512": "e7ae65bf280f13fb7175c1293dad7d18f1fcb186ebc9e1e33850cdaccb897b8f",
-   "size": 19040
-  },
-  "data/img/tutorial-1.png": {
-   "sha512": "885d322f4e189775cbacb6e7d4f9ee89554d5709077e3777f0d382b0e9d315f1",
-   "size": 18729
-  },
-  "data/img/uipassword.png": {
-   "sha512": "2f7ddb406cb318da51c36dc4e30e79aca17ef6730b9ba1fa5a9768127d3d0f02",
-   "size": 5383
-  },
-  "data/img/xmas_tree.jpg": {
-   "sha512": "fec017f87867f43d0f2b98e0b275b59a1997746e6cae9d322c551d7ab357488c",
-   "size": 43706
-  },
-  "data/img/zeroblog-comments.png": {
-   "sha512": "efe4e815a260e555303e5c49e550a689d27a8361f64667bd4a91dbcccb83d2b4",
-   "size": 24001
-  },
-  "data/img/zerochat.png": {
-   "sha512": "b1512ad6514a87d8052dac880b3ef0d9f2e70cf2e4605bfebd4a6c792d1c2ba9",
-   "size": 12029
-  },
-  "data/img/zeroid.png": {
-   "sha512": "b46d541a9e51ba2ddc8a49955b7debbc3b45fd13467d3c20ef104e9d938d052b",
-   "size": 18875
-  },
-  "data/img/zeromail.png": {
-   "sha512": "f2ced47d30bbf76549ae990b63dab00f3764ad48b6085464b122b108f31da368",
-   "size": 34638
-  },
-  "data/img/zerome.png": {
-   "sha512": "2b97eadf18d93c52c3316d14d8d54b1564a058e332fbf7bbb107bf24ad07e302",
-   "size": 21698
-  },
-  "data/img/zeroname.png": {
-   "sha512": "bab45a1bb2087b64e4f69f756b2ffa5ad39b7fdc48c83609cdde44028a7a155d",
-   "size": 36031
-  },
-  "data/img/zerotalk-mark.png": {
-   "sha512": "a335b2fedeb8d291ca68d3091f567c180628e80f41de4331a5feb19601d078af",
-   "size": 44862
-  },
-  "data/img/zerotalk-upvote.png": {
-   "sha512": "b1ffd7f948b4f99248dde7efe256c2efdfd997f7e876fb9734f986ef2b561732",
-   "size": 41092
-  },
-  "data/img/zerotalk.png": {
-   "sha512": "54d10497a1ffca9a4780092fd1bd158c15f639856d654d2eb33a42f9d8e33cd8",
-   "size": 26606
-  },
-  "data/pdf/zeronet_presentation.pdf": {
-   "sha512": "70274438cf2fbb63e1d3c75a74250ca5d968d63cadbb4426305b3b51f2608a01",
-   "size": 472084
   },
   "dbschema.json": {
    "sha512": "fa70ee2fce3f8342c6909e0e9b853bca71fa996f23f85739f94c086f2bda5ceb",
@@ -269,6 +213,10 @@
   "languages/zh.json": {
    "sha512": "30fb64e961765d1263daabd4c09baedefbb30e6a05fe09837482705811247760",
    "size": 795
+  },
+  "readme.md": {
+   "sha512": "db0a45e15f74adbc073819dce5e1822c0911eaf7c0a7f1eec9f32113ca51b5b6",
+   "size": 1158
   }
  },
  "ignore": "((js|css|alloy-editor)/(?!all.(js|css))|data/.*db|data/users/.*)",
@@ -279,14 +227,14 @@
   }
  },
  "inner_path": "content.json",
- "modified": 1517575212,
+ "modified": 1517663398,
  "postmessage_nonce_security": true,
- "signers_sign": "G7W/oNvczE5nPTFYVOqv8+GOpQd23LS/Dc1Q6xQ1NRDDHlYzmoSE63UQ7Za05kD0rwIYXbuUSr8z8p6RhZmnUs8=",
+ "signers_sign": "HK1YziPvx3PpezhSGIELuQ5Ytxolq+AcccxmDWB4IXX4FPCz7JAG6pujO8ycQItIWdn/T3m71hJ8IusnZnE85xc=",
  "signs": {
-  "1BLogC9LN4oPDcruNz3qo1ysa133E9AGg8": "HMLQAdgi8JZwxqcRvDSFdZyWdNJIOCzhFUkpoy+N5MD6D9J6gblT70IzbKvejLr1lm9XQF1QXbBnLJsvc4Cg0uM="
+  "1CbEFy4DrXttArPFPMfXKVzZkWWhNZrm3J": "GwdacINLOYQ5PooGeCftiMWsnmRWFPy/ohiIdupGXNJ5RwkHJ4+HraZlBrvByArn4jKj+BywXw9vyzUT9Xyy4FI="
  },
  "signs_required": 1,
  "title": "ZeroBlog",
  "translate": ["index.html", "js/all.js", "alloy-editor/all.js"],
- "zeronet_version": "0.6.1"
+ "zeronet_version": "0.6.0"
 }
