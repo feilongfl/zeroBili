@@ -18,7 +18,6 @@
 
 /* ---- /1BLogC9LN4oPDcruNz3qo1ysa133E9AGg8/js/lib/identicon.js ---- */
 
-
 /**
  * Identicon.js v1.0
  * http://github.com/stewartlord/identicon.js
@@ -1126,7 +1125,7 @@
       /*
       		if e.editor.element.getPrivate().events.mouseout?.listeners.length
       			e.editor.element.removeListener("mouseout", e.editor.element.getPrivate().events.mouseout.listeners[0].fn)
-      
+
       		if e.editor.element.getPrivate().events.mouseleave?.listeners.length
       			 * Keep only mouseout
       			func = e.editor.element.getPrivate().events.mouseleave.listeners[0]
@@ -2705,7 +2704,7 @@
       		else # Not voted on it
       			$(".score-inactive .score-num", elem).text post.votes
       			$(".score-active .score-num", elem).text post.votes+1
-      
+
       		if post.votes == 0
       			$(".score", elem).addClass("noscore")
       		else

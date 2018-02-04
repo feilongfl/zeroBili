@@ -566,3 +566,11 @@ img.zoom-img {
 .zoom-overlay-transitioning {
   cursor: default;
 }
+
+.player .player-area {
+	width:100%;
+}
+
+video {
+	width:100%
+}

@@ -1,178 +1,339 @@
 <!DOCTYPE html>
 
 <html>
+
 <head>
- <title>zeroBili</title>
- <meta charset="utf-8">
- <meta http-equiv="content-type" content="text/html; charset=utf-8" />
- <link rel="stylesheet" href="css/all.css" />
- <base href="" target="_top" id="base">
- <script>base.href = document.location.href.replace("/media", "").replace("index.html", "").replace(/[&?]wrapper=False/, "").replace(/[&?]wrapper_nonce=[A-Za-z0-9]+/, "")</script>
+  <title>ZeroBlog Demo</title>
+  <meta charset="utf-8">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <link rel="stylesheet" href="css/all.css" />
+  <base href="" target="_top" id="base">
+  <script>
+    base.href = document.location.href.replace("/media", "").replace("index.html", "").replace(/[&?]wrapper=False/, "").replace(/[&?]wrapper_nonce=[A-Za-z0-9]+/, "")
+  </script>
 
 </head>
+
 <body>
 
-<!-- editbar -->
-<div class="editbg"></div>
-<div class="editbar bottombar">
- <ul class="markdown-help">
-  <li># H1</li>
-  <li>## H2</li>
-  <li>### H3</li>
-  <li><i>_italic_</i></li>
-  <li><b>**bold**</b></li>
-  <li>~~<s>strikethrough</s>~~</li>
-  <li>- Lists</li>
-  <li>1. Numbered lists</li>
-  <li>[Links](http://www.zeronet.io)</li>
-  <li>[References][1]<br>[1]: Can be used</li>
-  <li>![image alt](img/logo.png)</li>
-  <li>Inline <code>`code`</code></li>
-  <li><code>```python<br>print "Code block"<br>```</code></li>
-  <li>&gt; Quotes</li>
-  <li>--- Horizontal rule</li>
- </ul>
- <a href="#Markdown+help" class="icon-help">?</a> Editing: <span class="object">Post:21.body</span> <a href="#Save" class="button save">Save</a> <a href="#Delete" class="button button-delete button-outline delete">Delete</a> <a href="#Cancel" class="cancel">Cancel</a>
-</div>
-<!-- EOF editbar -->
+  <!-- editbar -->
+  <div class="editbg"></div>
+  <div class="editbar bottombar">
+    <ul class="markdown-help">
+      <li># H1</li>
+      <li>## H2</li>
+      <li>### H3</li>
+      <li><i>_italic_</i></li>
+      <li><b>**bold**</b></li>
+      <li>~~<s>strikethrough</s>~~</li>
+      <li>- Lists</li>
+      <li>1. Numbered lists</li>
+      <li>[Links](http://www.zeronet.io)</li>
+      <li>[References][1]<br>[1]: Can be used</li>
+      <li>![image alt](img/logo.png)</li>
+      <li>Inline <code>`code`</code></li>
+      <li><code>```python<br>print "Code block"<br>```</code></li>
+      <li>&gt; Quotes</li>
+      <li>--- Horizontal rule</li>
+    </ul>
+    <a href="#Markdown+help" class="icon-help">?</a> Editing: <span class="object">Post:21.body</span> <a href="#Save" class="button save">Save</a> <a href="#Delete" class="button button-delete button-outline delete">Delete</a> <a href="#Cancel" class="cancel">Cancel</a>
+  </div>
+  <!-- EOF editbar -->
 
 
-<!-- publishbar -->
-<div class="publishbar bottombar">
- <small>Content changed</small> <a href="#Publish" class="button button-outline button-ok publish">Sign &amp; Publish new content</a>
-</div>
-<!-- EOF publishbar -->
+  <!-- publishbar -->
+  <div class="publishbar bottombar">
+    <small>Content changed</small> <a href="#Publish" class="button button-outline button-ok publish">Sign &amp; Publish new content</a>
+  </div>
+  <!-- EOF publishbar -->
 
 
-<!-- left -->
-<div class="left" data-object="Site">
- <a href="?Home" class="nolink">
+  <!-- left -->
+  <div class="left" data-object="Site">
+    <a href="?Home" class="nolink">
     <img class="avatar" src="img/avatar.png">
  </a>
- <h1><a href="?Home" class="nolink" data-editable="title" data-editable-mode="simple"></a></h1>
- <h2 data-editable="description"></h2>
- <a href="#Follow" class="feed-follow"><span class='text-follow'>Follow in Newsfeed</span><span class='text-following'>Following</span><div class="icon-feed"></div></a>
- <hr>
- <div class="links" data-editable="links" data-editable-mode="meditor"></div>
+    <h1><a href="?Home" class="nolink" data-editable="title" data-editable-mode="simple"></a></h1>
+    <h2 data-editable="description"></h2>
+    <a href="#Follow" class="feed-follow"><span class='text-follow'>Follow in Newsfeed</span><span class='text-following'>Following</span><div class="icon-feed"></div></a>
+    <hr>
+    <div class="links" data-editable="links" data-editable-mode="meditor"></div>
 
- <!-- Last comments -->
- <div class="lastcomments">
-  <h3>Latest comments:</h3>
-  <ul>
-   <li class="lastcomment template">
-    <span class="user_name">nofish:</span>
-    <span class="body">WebGL under linux can be problematic, here is some tips...</span>
-    <div class="details">
-     <span class="at">@</span>
-     <a class="postlink" href="#">Changelog, August 16, 2015</a>
+    <!-- Last comments -->
+    <div class="lastcomments">
+      <h3>Latest comments:</h3>
+      <ul>
+        <li class="lastcomment template">
+          <span class="user_name">nofish:</span>
+          <span class="body">WebGL under linux can be problematic, here is some tips...</span>
+          <div class="details">
+            <span class="at">@</span>
+            <a class="postlink" href="#">Changelog, August 16, 2015</a>
+          </div>
+        </li>
+      </ul>
     </div>
-   </li>
-  </ul>
- </div>
- <!-- EOF Last comments -->
+    <!-- EOF Last comments -->
 
-</div>
-<!-- EOF left -->
+  </div>
+  <!-- EOF left -->
 
 
-<!-- right -->
-<div class="right">
+  <!-- right -->
+  <div class="right">
 
 
- <!-- Post listing -->
- <div class="posts">
-  <a href="#New+Post" class="button button-outline new">Add new post</a>
+    <!-- Post listing -->
+    <div class="posts">
+      <a href="#New+Post" class="button button-outline new">Add new post</a>
 
-  <!-- Template: post -->
-  <div class="post template" data-object="Post:23" data-deletable="True">
-   <h1 class="title"><a href="?Post:23:Title" data-editable="title" data-editable-mode="simple" class="editable">Title</a></h1>
-   <div class="details">
-    <span class="published" data-editable="date_published" data-editable-mode="timestamp">21 hours ago &middot; 2 min read</span>
-    <a href="?Post:23:title" class="comments-num">&middot; <div class="icon-comment"></div> <span class="num">3 comments</span></a>
-    <a href="#Like" class="like" title="Like this post"><div class="icon-heart"></div><div class="icon-heart icon-heart-anim"></div> <span class="num"></span></a>
-    <!--<a class="score" href="#Upvote">
+      <!-- Template: post -->
+      <div class="post template" data-object="Post:23" data-deletable="True">
+        <h1 class="title"><a href="?Post:23:Title" data-editable="title" data-editable-mode="simple" class="editable">Title</a></h1>
+        <div class="details">
+          <span class="published" data-editable="date_published" data-editable-mode="timestamp">21 hours ago &middot; 2 min read</span>
+          <a href="?Post:23:title" class="comments-num">&middot; <div class="icon-comment"></div> <span class="num">3 comments</span></a>
+          <a href="#Like" class="like" title="Like this post">
+            <div class="icon-heart"></div>
+            <div class="icon-heart icon-heart-anim"></div> <span class="num"></span></a>
+          <!--<a class="score" href="#Upvote">
      <span class="score-inactive"> <span class="icon-up">^</span><span class="score-num">0</span> </span>
      <span class="score-active"> <span class="icon-up">^</span><span class="score-num">1</span> </span>
     </a>-->
-   </div>
-   <div class="body" data-editable="body" data-editable-mode="meditor">Body</div>
-   <a class="more" href="#"><span class='readmore'>Read more</span> →</a>
-  </div>
-  <!-- EOF Template: post -->
+        </div>
+        <!-- <div clas="player"></div> -->
+        <div class="body" data-editable="body" data-editable-mode="meditor">Body</div>
+        <a class="more" href="#"><span class='readmore'>Read more</span> →</a>
+      </div>
+      <!-- EOF Template: post -->
 
- </div>
- <!-- EOF Post listing -->
-
- <!-- Single Post show -->
- <h1 class="notfound" style="display: none">Not found</h1>
- <div class="post post-full" data-object="Post:23" data-deletable="True">
-  <h1 class="title"><a href="?Post:23:Title" data-editable="title" data-editable-mode="simple" class="editable">Title</a></h1>
-  <div class="details">
-   <span class="published" data-editable="date_published" data-editable-mode="timestamp">21 hours ago &middot; 2 min read</span>
-   <a href="#Like" class="like" title="Like this post"><div class="icon-heart"></div><div class="icon-heart icon-heart-anim"></div> <span class="num"></span></a>
-  </div>
-
-  <div class="body" data-editable="body" data-editable-mode="meditor"></div>
-
-  <h2 id="Comments">0 Comments:</h2>
-  <!-- New comment -->
-  <div class="comment comment-new">
-   <div class="info">
-    <a class="user_name certselect" href="#Change+user" title='Change user'>Please sign in</a>
-    &#9473;
-    <span class="added">new comment</span>
-   </div>
-   <div class="comment-body">
-    <a class="button button-submit button-certselect certselect" href="#Change+user"><div class='icon-profile'></div>Sign in as...</a>
-    <textarea class="comment-textarea"></textarea>
-    <a href="#Submit+comment" class="button button-submit button-submit-comment">Submit comment</a>
-    <div style='float: right; margin-top: -6px'>
-     <div class="user-size user-size-used"></div>
-     <div class="user-size"></div>
     </div>
-    <div style="clear: both"></div>
-   </div>
-  </div>
-  <!-- EOF New comment -->
+    <!-- EOF Post listing -->
 
-  <div class="comments">
-   <!-- Template: Comment -->
-   <div class="comment template">
-    <div class="info">
-     <span class="user_name">user_name</span>
-     <!--<span class="cert_domain"></span>-->
-     &#9473;
-     <span class="added">1 day ago</span>
-     <a href="#Reply" class="reply"><div class="icon icon-reply"></div> <span class="reply-text">Reply</span></a>
+    <!-- Single Post show -->
+    <h1 class="notfound" style="display: none">Not found</h1>
+    <div class="post post-full" data-object="Post:23" data-deletable="True">
+      <h1 class="title"><a href="?Post:23:Title" data-editable="title" data-editable-mode="simple" class="editable">Title</a></h1>
+      <div class="details">
+        <span class="published" data-editable="date_published" data-editable-mode="timestamp">21 hours ago &middot; 2 min read</span>
+        <a href="#Like" class="like" title="Like this post">
+          <div class="icon-heart"></div>
+          <div class="icon-heart icon-heart-anim"></div> <span class="num"></span></a>
+      </div>
+      <div class="player-area">
+        <a class="button button-player" onclick="playVideo()">Load Video</a>
+        <div class="player" id="player"></div>
+      </div>
+
+
+      <div class="body" data-editable="body" data-editable-mode="meditor"></div>
+
+      <h2 id="Comments">0 Comments:</h2>
+      <!-- New comment -->
+      <div class="comment comment-new">
+        <div class="info">
+          <a class="user_name certselect" href="#Change+user" title='Change user'>Please sign in</a> &#9473;
+          <span class="added">new comment</span>
+        </div>
+        <div class="comment-body">
+          <a class="button button-submit button-certselect certselect" href="#Change+user">
+            <div class='icon-profile'></div>Sign in as...</a>
+          <textarea class="comment-textarea"></textarea>
+          <a href="#Submit+comment" class="button button-submit button-submit-comment">Submit comment</a>
+          <div style='float: right; margin-top: -6px'>
+            <div class="user-size user-size-used"></div>
+            <div class="user-size"></div>
+          </div>
+          <div style="clear: both"></div>
+        </div>
+      </div>
+      <!-- EOF New comment -->
+
+      <div class="comments">
+        <!-- Template: Comment -->
+        <div class="comment template">
+          <div class="info">
+            <span class="user_name">user_name</span>
+            <!--<span class="cert_domain"></span>-->
+            &#9473;
+            <span class="added">1 day ago</span>
+            <a href="#Reply" class="reply">
+              <div class="icon icon-reply"></div> <span class="reply-text">Reply</span></a>
+          </div>
+          <div class="comment-body">Body</div>
+        </div>
+        <!-- EOF Template: Comment -->
+      </div>
     </div>
-    <div class="comment-body">Body</div>
-   </div>
-   <!-- EOF Template: Comment -->
+    <!-- EOF Single Post show -->
+
+    <!-- Pager -->
+    <div class="pager">
+      <a class="prev" href="#">← <span>Prev page</span></a>
+      <a class="next" href="#"><span>Next page</span> →</a>
+    </div>
+    <!-- EOF Pager -->
+
   </div>
- </div>
- <!-- EOF Single Post show -->
-
- <!-- Pager -->
- <div class="pager">
-  <a class="prev" href="#">← <span>Prev page</span></a>
-  <a class="next" href="#"><span>Next page</span> →</a>
- </div>
- <!-- EOF Pager -->
-
-</div>
-<!-- EOF right -->
+  <!-- EOF right -->
 
 
-<div style="clear: both"></div>
+  <div style="clear: both"></div>
 
 
-<!-- Template: menu -->
-<div class="menu template">
- <a href="#" class="menu-item template">Template</a>
-</div>
-<!-- EOF Template: menu -->
+  <!-- Template: menu -->
+  <div class="menu template">
+    <a href="#" class="menu-item template">Template</a>
+  </div>
+  <!-- EOF Template: menu -->
 
-<script type="text/javascript" src="js/all.js?lang={lang}" asyc></script>
-<script type="text/javascript" src="js/webtorrent.min.js" asyc></script>
+  <script src="js/all.js?lang={lang}" asyc></script>
+  <script src="js/webtorrent.min.js"></script>
+  <script>
+    var client = new WebTorrent()
+
+    function playVideo() {
+      var trackerList = new Array(
+        'http://p4p.arenabg.com:1337/announce',
+        'http://open.acgtracker.com:1096/announce',
+        'http://omg.wtftrackr.pw:1337/announce',
+        'http://mgtracker.org:6969/announce',
+        'http://explodie.org:6969/announce',
+        'http://bt.dl1234.com:80/announce',
+        'http://104.238.198.186:8000/announce',
+        'http://ehtracker.org/1179437/announce',
+        'udp://tracker.openbittorrent.com:80/announce',
+        'udp://tracker.opentrackr.org:1337/announce',
+        'udp://tracker.coppersurfer.tk:6969/announce',
+        'http://tracker.xfsub.com:6868/announce',
+        'udp://tracker.open-internet.nl:6969/announce',
+        'udp://p4p.arenabg.com:1337/announce',
+        'udp://tracker.internetwarriors.net:1337/announce',
+        'udp://allesanddro.de:1337/announce',
+        'udp://9.rarbg.to:2710/announce',
+        'udp://tracker.skyts.net:6969/announce',
+        'udp://tracker.safe.moe:6969/announce',
+        'udp://tracker.piratepublic.com:1337/announce',
+        'udp://z.crazyhd.com:2710/announce',
+        'udp://wambo.club:1337/announce',
+        'udp://trackerxyz.tk:1337/announce',
+        'udp://tracker4.itzmx.com:2710/announce',
+        'udp://tracker2.christianbro.pw:6969/announce',
+        'udp://tracker1.wasabii.com.tw:6969/announce',
+        'udp://tracker.zer0day.to:1337/announce',
+        'udp://public.popcorn-tracker.org:6969/announce',
+        'udp://tracker.xku.tv:6969/announce',
+        'udp://tracker.vanitycore.co:6969/announce',
+        'udp://inferno.demonoid.pw:3418/announce',
+        'udp://tracker.mg64.net:6969/announce',
+        'udp://open.facedatabg.net:6969/announce',
+        'udp://mgtracker.org:6969/announce',
+        'udp://ipv4.tracker.harry.lu:80/announce',
+        'udp://tracker.bluefrog.pw:2710/announce',
+        'udp://tracker.acg.gg:2710/announce',
+        'udp://thetracker.org:80/announce',
+        'udp://peerfect.org:6969/announce',
+        'http://tracker.city9x.com:2710/announce',
+        'http://retracker.telecom.by:80/announce',
+        'udp://tracker.tvunderground.org.ru:3218/announce',
+        'udp://tracker.tiny-vps.com:6969/announce',
+        'udp://pubt.in:2710/announce',
+        'udp://oscar.reyesleon.xyz:6969/announce',
+        'udp://open.stealth.si:80/announce',
+        'ws://tracker.btsync.cf:2710/announce',
+        'udp://zephir.monocul.us:6969/announce',
+        'udp://tracker.christianbro.pw:6969/announce',
+        'udp://tracker.torrent.eu.org:451/announce',
+        'udp://tracker.halfchub.club:6969/announce',
+        'udp://tracker.grepler.com:6969/announce',
+        'udp://tracker.files.fm:6969/announce',
+        'udp://tracker.dutchtracking.com:6969/announce',
+        'udp://tracker.dler.org:6969/announce',
+        'udp://tracker.desu.sh:6969/announce',
+        'udp://tracker.cypherpunks.ru:6969/announce',
+        'udp://tracker.kamigami.org:2710/announce',
+        'http://alpha.torrenttracker.nl:443/announce',
+        'http://0d.kebhana.mx:443/announce',
+        'udp://explodie.org:6969/announce',
+        'udp://bt.xxx-tracker.com:2710/announce',
+        'udp://sd-95.allfon.net:2710/announce',
+        'udp://santost12.xyz:6969/announce',
+        'udp://sandrotracker.biz:1337/announce',
+        'http://sandrotracker.biz:1337/announce',
+        'https://evening-badlands-6215.herokuapp.com:443/announce',
+        'wss://tracker.openwebtorrent.com:443/announce',
+        'wss://tracker.fastcast.nz:443/announce',
+        'wss://tracker.btorrent.xyz:443/announce',
+        'udp://tracker.uw0.xyz:6969/announce',
+        'udp://retracker.lanta-net.ru:2710/announce',
+        'udp://retracker.coltel.ru:2710/announce',
+        'udp://bt.aoeex.com:8000/announce',
+        'https://open.acgnxtracker.com:443/announce',
+        'http://tracker2.itzmx.com:6961/announce',
+        'http://tracker.torrentyorg.pl:80/announce',
+        'http://tracker.opentrackr.org:1337/announce',
+        'http://servandroidkino.ru:80/announce',
+        'http://retracker.spark-rostov.ru:80/announce',
+        'http://retracker.mgts.by:80/announce',
+        'http://retracker.bashtel.ru:80/announce',
+        'http://open.kickasstracker.com:80/announce',
+        'http://open.acgnxtracker.com:80/announce',
+        'http://agusiq-torrents.pl:6969/announce',
+        'udp://tracker.swateam.org.uk:2710/announce',
+        'udp://tracker.justseed.it:1337/announce',
+        'udp://tracker.cyberia.is:6969/announce',
+        'udp://tc.animereactor.ru:8082/announce',
+        'udp://retracker.nts.su:2710/announce',
+        'udp://packages.crunchbangplusplus.org:6969/announce',
+        'udp://104.238.198.186:8000/announce',
+        'https://open.kickasstracker.com:443/announce',
+        'http://tracker.vanitycore.co:6969/announce',
+        'http://tracker.tfile.me:80/announce',
+        'http://tracker.mg64.net:6881/announce',
+        'http://tracker.internetwarriors.net:1337/announce',
+        'http://torrentsmd.me:8080/announce',
+        'http://share.camoe.cn:8080/announce',
+        'http://retracker.omsk.ru:2710/announce'
+      );
+
+      var i = 0;
+      var p = document.getElementsByTagName('p');
+      var hash = '';
+      for (; i < p.length; i++) {
+        // console.log(p[i].innerText);
+        if (p[i].innerText.length == 40) {
+          if (p[i].innerText.match(/\w{40}/)) {
+            console.log('hash => ' + p[i].innerText);
+            hash = p[i].innerText;
+          }
+        }
+      }
+
+      if (hash != '') {
+        var torrentId = 'magnet:?xt=urn:btih:' + hash;
+        for (var j = 0;j<trackerList.length;j++){
+          torrentId = torrentId + '&tr=' + trackerList[j];
+        }
+
+        //debug
+        // torrentId = 'https://cors-anywhere.herokuapp.com/https://mikanani.me/Download/20180128/d558bc6f730f65b424fbfe2e8f5b3571700d8dfc.torrent';
+
+        console.log(torrentId);
+        client.add(torrentId, function(torrent) {
+          console.log('addTorrent');
+
+          // Torrents can contain many files. Let's use the .mp4 file
+          var file = torrent.files.find(function(file) {
+            return file.name.endsWith('.mp4')
+          })
+
+          // Display the file by adding it to the DOM.
+          // Supports video, audio, image files, and more!
+          file.appendTo('div#player')
+        })
+      }
+    }
+  </script>
 </body>
+
 </html>
